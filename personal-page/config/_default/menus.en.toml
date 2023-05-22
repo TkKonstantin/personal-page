@@ -4,36 +4,45 @@
   weight = 100
   url = "/"
 
-  #[[main]]
-  #name = "Posts"
-  #weight = 200
-  #identifier = "posts"
-  #url = "/post/"
+  [[main]]
+  name = "Background"
+  identifier = "background"
+  weight = 200
+  url = "/background/"
 
+  #To be added
   #[[main]]
   #name = "Portfolio"
   #weight = 300
   #identifier = "portfolio"
   #url = "/portfolio/"
 
-  #[[main]]
-  #name = "Accomplishments"
-  #weight = 400
-  #identifier = "accomplishments"
+  [[main]]
+  name = "Activities"
+  weight = 400
+  identifier = "activities"
 
+  [[main]]
+  name = "Talks"
+  weight = 410
+  identifier = "talks"
+  url = "/talks/"
+  parent = "activities" 
+
+  [[main]]
+  name = "Publications"
+  weight = 420
+  identifier = "publications"
+  url = "/publications/"
+  parent = "activities" 
+  
+  # To be added
   #[[main]]
   #name = "Awards"
-  #weight = 410
+  #weight = 430
   #identifier = "awards"
   #url = "/awards/"
-  #parent = "accomplishments"  
-
-  #[[main]]
-  #name = "Certifications"
-  #weight = 420
-  #identifier = "certifications"
-  #url = "/certifications/"
-  #parent = "accomplishments"
+  #parent = "activities"  
 
   [[main]]
   name = "About"
