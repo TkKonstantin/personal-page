@@ -11,11 +11,11 @@
   url = "/background/"
 
   #To be added
-  #[[main]]
-  #name = "Portfolio"
-  #weight = 300
-  #identifier = "portfolio"
-  #url = "/portfolio/"
+  [[main]]
+  name = "Portfolio"
+  weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
 
   [[main]]
   name = "Activities"
