@@ -3,9 +3,11 @@ title = "I'm Konstantin Tkachuk"
 author = "Konstantin Tkachuk"
 #copyright = "2020-2021"
 description = """Konstantin Tkachuk
-Schwarzman Scholar '23 | COO at Future International Foundation, Inc. 
-Startup Advisor | Web3 & Blockchain researcher 
-Aspiring Technology Policy researcher"""
+Startup Advisor | Schwarzman Scholar '23
+COO at Future International Foundation, Inc. 
+Web3 & Blockchain governance researcher 
+ex. Protocol Labs Startup Operator
+"""
 profilePicture = "images/Me.png"
 keywords = ""
 favicon = "favicons/"
