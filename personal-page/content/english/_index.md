@@ -11,9 +11,9 @@ Currently, I focus on Web3 BD and Tech advisory and blockchain governance resear
 
 ## Current projects
 
-- 2023 -> Advisor of [WeUp](https://www.weuptheworld.com/) 
-- 2023 -> Art Manager of [@SuldinArt](https://www.instagram.com/suldinart/) 
-- 2023 -> Advisor of [FileMarket](https://filemarket.xyz/)
+- 2023 -> Advisor of [WeUp](https://www.weuptheworld.com/): Web3 social platform for personal accountability
+- 2023 -> Art Manager of [@SuldinArt](https://www.instagram.com/suldinart/): Rugs, craft and beyond 
+- 2023 -> Advisor of [FileMarket](https://filemarket.xyz/): P2P platform for trading digital goods in Web3
 - 2022 -> Advisor of [ntent.art](https://ntent.art): A Web3 Kulturhaus & Art Collective 
 - 2022 -> Blockchain Governance research: "Multistakeholder Analysis of Blockchain Industry"
 - 2020 -> COO of [Future International Foundation](https://futureinternational.org/)

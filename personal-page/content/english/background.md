@@ -13,7 +13,7 @@ author = "Konstantin Tkachuk"
     - Advising 4 early stage startup executive teams (foundation to seed) on business development, product-market fit and go-to-market strategies
     - Advising 6 startups (foundation to series B) on Web3 technical stack, research strategy and open-source system design
 - Future International Foundation @ NYC, US (2020-Present)
-    - Director, Learning and Growth Opportunity
+    - COO, Learning Opportunities and Growth
 - Protocol Labs @ Remote (2021-2022)
     - Startup Operator
 - Conxai @ Munich, Germany (2020-2021)
@@ -30,11 +30,12 @@ author = "Konstantin Tkachuk"
 - [@SuldinArt](https://www.instagram.com/suldinart/) @ Remote (2023-Present)
     - Art Manager, focusing on partnership management, exhibitions and contract development
 - [FileMarket](https://filemarket.xyz/) @ Remote (2023-Present)
-    - Advisor, focusing BD and Tech
+    - Advisor, focusing BD and Technical architecure
 - [NTENT.art](https://www.ntent.art/) @ Remote (2022-Present)
-    - Advisor, focusig on BD, Partnerships and Go-to-Market strategy
+    - Advisor, focusing on BD, Partnerships and Go-to-Market strategy
 - [Crypto Packaged Goods](https://www.cryptopackagedgoods.com/accelerator) @ Remote (2023-Present)
-    - GCP Accelerator 2023 mentor
+    - GCP Accelerator 2023/2 mentor and judge
+    - GCP Accelerator 2023/1 speaker
 - [Softnoise.xyz](Softnoise.xyz) @ Remote (2022-Present)
     - Startup Mentor, focusing on NFT and Gaming verticals
 
