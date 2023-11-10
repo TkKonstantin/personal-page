@@ -13,9 +13,10 @@ author = "Konstantin Tkachuk"
     - Advising 4 early stage startup executive teams (foundation to seed) on business development, product-market fit and go-to-market strategies
     - Advising 6 startups (foundation to series B) on Web3 technical stack, research strategy and open-source system design
 - Future International Foundation @ NYC, US (2020-Present)
-    - COO, Learning Opportunities and Growth
-- Protocol Labs @ Remote (2021-2022)
-    - Startup Operator
+    - COO, Educational Opportunities and Growth
+- Protocol Labs @ Remote (2021-2023)
+    - Orbit Community Member (2022-2023)
+    - Startup Operator (2021-2022)
 - Conxai @ Munich, Germany (2020-2021)
     - Startup Founding Member and Domain Engineer
 - Idea-Re @ Milano, Italy (2020-2020)
